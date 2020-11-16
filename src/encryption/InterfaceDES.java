@@ -180,7 +180,7 @@ public class InterfaceDES extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-                    chooseFile.setEnabled(false);
+        chooseFile.setEnabled(false);
 
         try {
             JFileChooser fc = new JFileChooser();
@@ -202,7 +202,7 @@ public class InterfaceDES extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:{
-                    chooseFile.setEnabled(false);
+        chooseFile.setEnabled(false);
 
         try {
 
@@ -238,7 +238,7 @@ public class InterfaceDES extends javax.swing.JFrame {
         // TODO add your handling code here:
         Main.main();
         this.setVisible(false);
-        
+
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
